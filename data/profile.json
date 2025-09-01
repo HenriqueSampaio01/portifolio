@@ -21,7 +21,7 @@
       },
       {
         "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/HenriqueSampaio01/portifolio/main/data/img/docker.png"
+        "logo": "https://raw.githubusercontent.com/HenriqueSampaio01/portifolio/main/data/imgs/docker.png"
       },
       {
         "name": "GitHub",
@@ -34,7 +34,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Resiliência",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -59,19 +59,14 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Suporte Técnico / Reis Advogados",
+      "period": "nov/2024 - até o momento",
+      "description": "• Resolução de chamados técnicos relacionados a sistemas e softwares • Implementação de melhorias em processos de suporte • Manutenção preventiva em notebooks e desktops"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Suporte Técnico / OpenSoft Informática",
+      "period": "2023 - 2024",
+      "description": "• Conserto e manutenção de computadores e tablets • Visitas técnicas e atendimento ao cliente • Suporte em infraestrutura e soluções de TI"
     }
   ]
 }
