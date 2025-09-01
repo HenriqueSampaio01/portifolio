@@ -47,13 +47,13 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Meu projeto principal, usado na faculdade para aprender",
+      "url": "https://github.com/HenriqueSampaio01/Pagina-Rainbow-Six.git",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Aprendendo a usar local storage",
+      "url": "https://github.com/HenriqueSampaio01/Local-Storage.git",
       "github": true
     }
   ],
@@ -61,12 +61,12 @@
     {
       "name": "Suporte Técnico / Reis Advogados",
       "period": "nov/2024 - até o momento",
-      "description": "• Resolução de chamados técnicos relacionados a sistemas e softwares • Implementação de melhorias em processos de suporte • Manutenção preventiva em notebooks e desktops"
+      "description": "Atuo na resolução de chamados técnicos relacionados a sistemas e softwares, na implementação de melhorias em processos de suporte para otimizar o atendimento e também na manutenção preventiva de notebooks e desktops, garantindo maior desempenho e estabilidade dos equipamentos."
     },
     {
       "name": "Suporte Técnico / OpenSoft Informática",
       "period": "2023 - 2024",
-      "description": "• Conserto e manutenção de computadores e tablets • Visitas técnicas e atendimento ao cliente • Suporte em infraestrutura e soluções de TI"
+      "description": "Realizei conserto e manutenção de computadores e tablets, participei de visitas técnicas com atendimento direto ao cliente e prestei suporte em infraestrutura e soluções de TI, assegurando o bom funcionamento dos equipamentos e sistemas."
     }
   ]
 }
